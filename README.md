@@ -1,1 +1,1 @@
-This repository contains my solutuons of problems from https://leetcode.com
+This repository contains my solutions of problems from https://leetcode.com
